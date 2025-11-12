@@ -7,6 +7,13 @@
   <img src="https://img.shields.io/badge/Domain-Banking%20%26%20Finance-ff69b4" />
 </p>
 
+---
+
+## 📂 Dataset (Kaggle)
+**Dataset Source:** [Kaggle – Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+> Download the dataset and place the file as `data/creditcard.csv` before running scripts.
+
 ## 🚀 Project Overview
 
 Fraudulent transactions cost the global banking industry billions every year.  
