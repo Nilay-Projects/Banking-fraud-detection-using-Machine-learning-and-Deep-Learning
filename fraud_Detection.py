@@ -31,7 +31,7 @@ np.random.seed(RANDOM_STATE)
 # ===============================
 
 print("📥 Loading dataset...")
-df = pd.read_csv("creditcard.csv")
+df = pd.read_csv("data/creditcard.csv")
 
 print("Original shape:", df.shape)
 
@@ -169,3 +169,4 @@ joblib.dump(rf, "random_forest_small.pkl")
 joblib.dump({"threshold": threshold}, "ae_meta.pkl")
 
 print("\n✅ All models saved successfully")
+
