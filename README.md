@@ -114,5 +114,5 @@ The model can easily be adapted for real-world **banking risk management systems
 | F1-Score | 0.86 | 0.93 | **0.92** |
 | ROC-AUC | 0.97 | 0.99 | **0.995** |
 
-*(Results may vary slightly based on sampling and environment.)*
+
 
